@@ -11,7 +11,7 @@
 4. Pygame 미니게임 (장애물 회피),	game_manager.py, 구글 공룡 게임을 모티브로 한 산책 시뮬레이션 게임입니다.
 
 🛠️ 개발 환경 및 기술 스택 (Tech Stack)    
-언어: Python 3.x  
+언어: Python
 GUI/게임 라이브러리: pygame  
 모듈 구성: 모듈화 기반의 OOP (Object-Oriented Programming) 설계 적용.  
 버전 관리: Git & GitHub  
